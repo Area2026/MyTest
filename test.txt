@@ -12,5 +12,3 @@ Update file test 11
 Update file test 12
 test
 azertyu
-dsfgh
-fgdsx
